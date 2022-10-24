@@ -1,9 +1,9 @@
-# SMS
+# Send SMS
 
 {% hint style="info" %}
 Good To Know!\
 \
-All requests require an Authentication Bearer token to be sent in the header. [Find out more here](../../authentication.md)
+All requests require an Authentication Bearer token to be sent in the header. [Find out more here](../../../authentication.md)
 {% endhint %}
 
 ## Sending an SMS
