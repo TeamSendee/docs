@@ -1,18 +1,10 @@
-# Welcome!
+# Introduction
 
-## Welcome to MyAPI
+The Sendee API is organized around REST.  Our API uses resource-oriented URLs, accepts [form-encoded](https://en.wikipedia.org/wiki/POST\_\(HTTP\)#Use\_for\_submitting\_web\_forms) request bodies, and returns [JSON-encoded](http://www.json.org/) responses.
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+You can use the Sendee API to send single and bulk messages through the Twilio platform using your Twilio credentials.
 
-## Want to jump right in?
-
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
-
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
+## Want to get started?
 
 Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
