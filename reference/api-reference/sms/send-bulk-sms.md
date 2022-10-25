@@ -57,7 +57,7 @@ The text of the message you want to send. Can be up to 1,600 characters in lengt
 {% endswagger-response %}
 {% endswagger %}
 
-#### Example Request
+## Example Request
 
 Requests can be send via a form body or JSON string
 
