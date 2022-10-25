@@ -63,7 +63,7 @@ The text of the message you want to send. Can be up to 1,600 characters in lengt
 ```
 {% endswagger-response %}
 
-{% swagger-response status="403: Forbidden" description="" %}
+{% swagger-response status="401: Unauthorized" description="" %}
 ```json
 {
     "success": false,
