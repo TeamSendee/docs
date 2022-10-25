@@ -42,7 +42,10 @@ The text of the message you want to send. Can be up to 1,600 characters in lengt
 {% swagger-response status="200: OK" description="" %}
 ```javascript
 {
-    "success": "true"
+    "success": "true",
+    "data": {
+        "bulk_message_id": "409e3444-ca88-4f69-9ffc-2ddf3abf6740"
+    }
 }
 ```
 {% endswagger-response %}
