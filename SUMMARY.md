@@ -7,5 +7,6 @@
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+  * [SMS](reference/api-reference/sms/README.md)
+    * [Send SMS](reference/api-reference/sms/send-sms.md)
+    * [Send Bulk SMS](reference/api-reference/sms/send-bulk-sms.md)
