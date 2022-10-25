@@ -2,17 +2,17 @@
 
 Dive into the specifics of each API endpoint by checking out our complete documentation.
 
-## Pets
+## Send SMS
 
-All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
+Get started by sending a single SMS through the Sendee Queue
 
 {% content-ref url="sms/send-sms.md" %}
 [send-sms.md](sms/send-sms.md)
 {% endcontent-ref %}
 
-## Users
+## Bulk SMS
 
-Everything related to users:
+Need to send a message to more than one number? Use the Sendee Bulk SMS endpoint:
 
 {% content-ref url="sms/send-bulk-sms.md" %}
 [send-bulk-sms.md](sms/send-bulk-sms.md)
