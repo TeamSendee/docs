@@ -72,3 +72,15 @@ The text of the message you want to send. Can be up to 1,600 characters in lengt
 ```
 {% endswagger-response %}
 {% endswagger %}
+
+#### Example Request
+
+Requests can be send via a form body or JSON string
+
+```json
+{
+    "from": "+15555558108",
+    "to": "+15555559411",
+    "body": "A new test message  13857"
+}
+```
