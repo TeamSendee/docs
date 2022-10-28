@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Authentication](authentication.md)
+* [SDKs](sdks/README.md)
+  * [PHP](sdks/php.md)
 * [Errors](errors.md)
 
 ## Reference
